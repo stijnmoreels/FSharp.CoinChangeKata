@@ -1,5 +1,6 @@
-F# COIN CHANGE KATA WITH PROPERTY-BASED TESTING
-For the attention of Codit
+
+# F# COIN CHANGE KATA WITH PROPERTY-BASED TESTING
+_For the attention of Codit_
 
 The one way to get an expert in a topic is to practice; and Programming Katas are a very good approach to keep practicing your programming skills.
 In this post, I will solve the Coin Change Kata with F# and use Property-Based Testing (with FsCheck) to drive the design.
